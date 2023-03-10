@@ -1,0 +1,41 @@
+*{
+	font-family: Arial, Georgia, sans-serif;
+	color:#cd71f5;
+	text-align: center;
+}
+
+body{
+	width:800px;
+	margin:0 auto;
+}
+
+nav{
+background-color: #b103fc;
+	padding: 10px;
+	margin: 10px;
+	list-style-type: none;
+}
+
+ul{
+	list-style-type: none;
+}
+
+h1{
+font-family: georgia, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
