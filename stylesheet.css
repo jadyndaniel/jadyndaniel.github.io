@@ -20,6 +20,9 @@ background-color: #b103fc;
 ul{
 	list-style-type: none;
 }
+ol{
+	text-align:center;
+}
 
 h1{
 font-family: georgia, serif;
